@@ -1,0 +1,22 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratikrane412/js-codes.git"
+  },
+  "author": "Pratik Rane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratikrane412/js-codes/issues"
+  },
+  "homepage": "https://github.com/pratikrane412/js-codes#readme",
+  "dependencies": {
+    "axios": "^1.11.0"
+  }
+}
