@@ -1,0 +1,1 @@
+const person2 = {...person, name: "Harsh"};
